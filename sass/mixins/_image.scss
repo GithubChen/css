@@ -1,0 +1,9 @@
+// Image Mixins
+// - image responsive
+
+// Image responsive
+@mixin img-responsive() {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
